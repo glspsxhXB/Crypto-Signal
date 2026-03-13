@@ -1,3 +1,10 @@
+# 🚀 Enhanced Version Available!
+
+> Looking for a more advanced version? Check out my professional trading tools:
+> https://github.com/glspsxhXB/xiaobao-digital-store
+
+---
+
 # CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 4,100+ stars & 1,000+ forks https://github.com/CryptoSignal/Crypto-Signal
 
 ### Development state: Beta (Code is stable, documentation is often lagging)
